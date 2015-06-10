@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mindtouch.xobject", "mindtouch.xobject\mindtouch.xobject.csproj", "{F1F9B6FB-E4BF-4924-AE7F-CE27F7BEC31F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mindtouch.xobject.tests", "mindtouch.xobject.tests\mindtouch.xobject.tests.csproj", "{FA314C21-B30F-4897-86A6-7E5E64EBCD54}"
